@@ -1,0 +1,20 @@
+[
+  {
+    "id": "software_engineer",
+    "title": "Software Engineer",
+    "company": "NextGen Tech",
+    "description": "We are seeking a Software Engineer with experience in Python, REST API development, cloud-native design, microservices and unit testing. The ideal candidate will have strong problem-solving skills, experience with modern web frameworks, and background in agile development. Familiarity with NLP, data pipelines, and containerization is a plus."
+  },
+  {
+    "id": "data_scientist",
+    "title": "Data Scientist",
+    "company": "Insight Analytics",
+    "description": "Looking for a Data Scientist with strong experience in machine learning, statistical modeling, Python, scikit-learn, pandas, and data visualization. Responsibilities include building predictive models, extracting insights from structured and unstructured data, and communicating results to business stakeholders. Familiarity with NLP and resume matching is helpful."
+  },
+  {
+    "id": "product_manager",
+    "title": "Product Manager",
+    "company": "GrowthSuite",
+    "description": "Product Manager needed to own product delivery, collaborate with technical and design teams, and lead go-to-market planning. The candidate should have experience capturing customer requirements, managing roadmaps, and writing clear user stories. Strong communication, stakeholder management, and analytics mindset are essential."
+  }
+]
