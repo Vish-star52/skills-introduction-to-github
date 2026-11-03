@@ -1,33 +1,44 @@
-# Compiled source #
-###################
-*.com
-*.class
-*.dll
-*.exe
-*.o
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
 *.so
 
-# Packages #
-############
-# it's better to unpack these files and commit the raw source
-# git has its own built in compression methods
-*.7z
-*.dmg
-*.gz
-*.iso
-*.jar
-*.rar
-*.tar
-*.zip
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
 
-# Logs and databases #
-######################
-*.log
-*.sql
-*.sqlite
+# Virtual environments
+stockenv/
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
 
-# OS generated files #
-######################
+# Backup files
+*.bak
+*.swp
+*.swo
+*~
+
+# Operating System files
 .DS_Store
 .DS_Store?
 ._*
@@ -35,3 +46,13 @@
 .Trashes
 ehthumbs.db
 Thumbs.db
+
+# IDE / Editor files
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Agent / Tool directories
+.agents/
+.claude/
